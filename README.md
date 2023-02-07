@@ -17,3 +17,5 @@ you need the following steps for that:
 6-type in your alias name and hit Enter
 
 7-enjoy your day!!
+
+#next project is to automate alle of the steps above in bash and not doing it manually!
